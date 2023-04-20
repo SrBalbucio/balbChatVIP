@@ -1,0 +1,5 @@
+name: balbChatVIP
+author: Balbucio
+version: 1.0.1
+main: me.balbucio.vip.Main
+description: Adiciona um Chat para VIPs no servidor.

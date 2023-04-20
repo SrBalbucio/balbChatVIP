@@ -1,0 +1,18 @@
+
+#PREFIXOS PARA O MESSAGE
+# {CHATPREFIX} Prefixo do chat
+# {user} Player que digitou a mensagem
+# {message} Mensagem
+prefix: "§b[CHAT VIP]"
+chatprefix: "§b[§aCV§b]"
+nopermission: "§cEsse chat é exclusivo para VIPs!"
+nullmessage: "§cDigite uma mensagem!\n/cv <mensagem>"
+blockmsg: "§cSua mensagem foi bloqueada.\n§cMotivo: {motivo}"
+message: "{chatprefix} {user}: {message}"
+help: "§aChatVIP - Ajuda:\n§b/cv §7- Envie mensagens\n§b/chatvip silenciar §7- Para mutar o chat"
+mute:
+ voce: "§cVocê foi mutado desse chat!"
+ all: "§cEsse chat foi mutado pela equipe!"
+motivos:
+ badword: "Palavras inadequadas." #Xingamentos e palavras bloqueadas
+ links: "Divulgação de Links." #Uso de links no chat

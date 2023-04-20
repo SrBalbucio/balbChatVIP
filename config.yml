@@ -1,0 +1,9 @@
+#Sempre que possível atualizar o plugin automaticamente
+autoupdate: true
+
+blockedwords: #Adicione aqui palavras bloqueadas de se falar no chat
+ - "fdp"
+ - "arrombado"
+ - "viado"
+ - "corno"
+ - "cusao"
